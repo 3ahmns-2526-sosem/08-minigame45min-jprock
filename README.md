@@ -1,5 +1,18 @@
-# 08-helloGH-jprock
+# Coin Collector
 
-Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
+## Spielidee
+Sammle 5 Münzen.
 
-Hello GitHub: erstes Repository onlinee angelegt.
+## Steuerung
+WASD oder Pfeiltasten.
+
+## Ziel
+Sammle alle Münzen ein.
+
+## Feedback
+- Score
+- Coins verschwinden
+- YOU WIN Nachricht
+
+## KI-Nutzung
+ChatGPT wurde für Ideenfindung, Issues, Scripts und README verwendet.
